@@ -15,9 +15,7 @@ export default function Home() {
             {/* <a className="flex-none text-xl font-semibold dark:text-white" href="#" aria-label="Brand">Brand</a> */}
             <div>
               {/* <button type="button" className="hs-collapse-toggle size-9 flex justify-center items-center text-sm font-semibold rounded-lg border border-gray-200 text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:border-neutral-700 dark:hover:bg-neutral-700" data-hs-collapse="#navbar-collapse-with-animation" aria-controls="navbar-collapse-with-animation" aria-label="Toggle navigation"> */}
-              <Link href={"localhost:3000"}>
                 <Image src={"/logo.png"} alt="logo" width={100} height={100} />
-              </Link>
               {/* </button> */}
             </div>
           </div>
